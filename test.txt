@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 commit Local
+=======
+commit remote commit local
+>>>>>>> f314a64bddc06b4026889d9c5b2756eade236ef6
 this is a test file
  and here is my modification
